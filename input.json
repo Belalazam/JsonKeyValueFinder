@@ -1,0 +1,18 @@
+{
+    "hello`wowww`" : 121,
+    "hello1" : [
+        1,
+        2,
+        3
+    ],
+    "hello2`yeah`" : {
+        "wow" : 123
+    },
+    "hello3" : [
+        {
+            "wow`wow`" : 123
+        },
+        {
+            "wow`when`" : 123
+        }]
+}

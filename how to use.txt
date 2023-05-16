@@ -1,0 +1,15 @@
+In a Json, Key is Always a String , so add this string `dob` in the end of a key 
+for example if key is = "dateOfBirth" , 
+then it will become "dateOfBirth`dob`"
+so the output will become :
+dob = 'dateOfBirth'
+
+if it is a list then create changes to first object of the list
+
+it does not matter if you have space after or before the `need` \ or this string is before or after key
+
+add you whole json in input.txt file 
+
+run the script , and you will find your desired replacer
+
+when output comes, use find and replace to keep your desired dictionary name
